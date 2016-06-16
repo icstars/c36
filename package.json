@@ -1,0 +1,27 @@
+{
+  "name": "c36",
+  "version": "1.0.0",
+  "description": "Seed project for cycle 36",
+  "main": "app.js",
+  "scripts": {
+    "start" : "node backend/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icstars/c36.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/icstars/c36/issues"
+  },
+  "homepage": "https://github.com/icstars/c36#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "lodash": "^4.6.1",
+    "pg": "^4.4.4"
+  }
+}
