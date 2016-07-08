@@ -29,3 +29,10 @@ To get setup the project in cloud9 you will need to do the following:
 4. Now you should be able to start the application by running `npm start` in the bash **(It is important that you run this from the top level directory).** The application has some relative paths that depend on the command running on in this directory.
 
 5. Get excited because you are done! Click on the `Preview` --> `Preview Running Application` in the menu bar. This will open up a window with the url you can use to access your application!
+
+
+## Deeper Dive into the project
+
+I tried to separate different concepts into sections. If you are looking for more information on specific pieces of the project check out the sections below. 
+
+[The `/frontend` Folder]('docs/frontend.md')
