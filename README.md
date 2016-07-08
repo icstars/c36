@@ -5,6 +5,7 @@
 This repo is designed to demonstrate a nodeJS backend. The idea is looking at the examples in this repo to help you build out your own to support your application. The design is explained in more detail below but set up so you don't need to completely understand how it works to get your application up and running. But we challenge you to understand the code, try to improve it, or maybe add tests!
 
 ## Getting things up and running
+(This assumes you have a cloud9 account!)
 
 To get setup the project in cloud9 you will need to do the following:
 
