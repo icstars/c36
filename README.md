@@ -34,6 +34,10 @@ To get setup the project in cloud9 you will need to do the following:
 
 ## Deeper Dive into the project
 
-I tried to separate different concepts into sections. If you are looking for more information on specific pieces of the project check out the sections below. 
+I tried to separate different concepts into sections. If you are looking for more information on specific pieces of the project check out the sections below.
 
-[The `/frontend` Folder]('docs/frontend.md')
+[The `/frontend` folder]('docs/frontend.md')
+\- an introduction to the frontend folder
+
+[The `/backend` folder]('docs/backend.md')
+\- an introduction to the backend folder
