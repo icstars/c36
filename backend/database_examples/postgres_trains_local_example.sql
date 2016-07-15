@@ -1,22 +1,3 @@
--- This .sql is for setting up your trains table in the database for the example code to work.
--- You can execute the following commands in your terminal filling in the values like <password>
--- before executing them:
-
--- in cloud 9, start the postgres service:
--- sudo service postgresql start
-
--- connect:
--- sudo sudo -u postgres psql
-
--- get to the filesystem while still logged in as super user
--- \!
-
--- change this directory
--- cd /backend
-
--- run this file
--- psql -f postgres_trains_local_example.sql
-
 create database nodeworkshop;
 
 \c nodeworkshop;

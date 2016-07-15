@@ -3,7 +3,7 @@
 var pg = require('pg');
 var conString = process.env.DATABASE_URL;
 
- module.exports = function() {
+module.exports = function() {
   return {
     executeQuery: function(query, callback){
       pg.connect(conString, function(err, client, done) {
@@ -27,5 +27,3 @@ var conString = process.env.DATABASE_URL;
     }
   }
 }();
-
-

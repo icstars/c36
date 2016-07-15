@@ -41,3 +41,6 @@ I tried to separate different concepts into sections. If you are looking for mor
 
 [The `/backend` folder]('docs/backend.md')
 \- an introduction to the backend folder
+
+[Using the postgres database]('docs/postgres.md')
+\- an introduction to using postgres

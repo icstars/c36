@@ -1,6 +1,3 @@
--- export PGPASSWORD=<password>
--- psql -h <host> -d <database> -U <user_name> -p <port> <path to postgres_trains_remote_example.sql file>
-
 create table if not exists trains (
   id serial primary key,
   name text,
