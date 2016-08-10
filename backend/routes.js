@@ -13,6 +13,10 @@ module.exports = function() {
     return res.render('helloworld.html');
   });
 
+  router.get('/landing', function(req, res) {
+    return res.render('landing.html');
+  });
+
   /* Your code here */
 
   return router
