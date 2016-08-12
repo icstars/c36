@@ -20,10 +20,10 @@ Tags also can have __attributes__, which look like this:
 In this case ```class``` and ```tabindex``` are _attributes_ of the tag ```p```, with values of ```description``` and ```1```, respectively.
 
 #### ```class``` and ```id``` attributes
-These two attributes are particularly special since they are both used to help writing CSS rules. We'll go over exactly what that means in the next section, but for the moment there are only two things to keep in mind:
+These two attributes are particularly special since they are both used to help write CSS rules. We'll go over exactly what that means in the next section, but for the moment there are only two things to keep in mind:
 
 1. Every ```id``` value must be unique to that page. So you can't have two tags that both have an id with the value "main-content".
-2. ```class``` attributes can have multiple values if you add spaces between each class name. The tag ```<p class="class-one class-two"></p>``` has two classes: class-one and class-two. There's no limit to how many tags can have the same class.
+2. ```class``` attributes can have multiple values if you add spaces between each class name. For example the tag ```<p class="class-one class-two"></p>``` has two classes: class-one and class-two. Unlike the id attribute there's no limit to how many tags can have the same class.
 
 #### HTML and the web
 
@@ -52,14 +52,14 @@ And that's it!
 ### CSS
 CSS controls the _design_ of the HTML content. It's what you use if you want to make a button green, your text bigger, or generally make things look nicer than the browser defaults.
 
-You can add CSS rules to an HTML document by using a special tag: ```link```.
+You can add CSS rules to an HTML document by using a special ```<link>``` tag, which you put inside the ```<head>```.
 
-It's made up of two parts: one to say which exact html tag(s) your css will apply to (a "css selector"), and the other to say what to change about the parts you've selected. It looks like this:
+CSS is made up of two parts: one to say which exact html tag(s) your css will apply to (a "__css selector__"), and the other to say what to change about the parts you've selected. It looks like this:
 
 ```css
 p {
-  color: "red",
-  font-size: 15px
+  color: "red";
+  font-size: 15px;
 }
 ```
 
@@ -97,11 +97,11 @@ There are lots of keywords you can use in CSS to change the look of an HTML elem
 
 
 ## Javascript
-Javascript (or js) can do a lot of things, but in a site it's usually used to make html elements _move_ or _change_. One of the main ways to do this is to have the js code change the css rules on a tag, so that its styling or location changes.
+Javascript (or JS) can do a lot of things, but on a site it's usually used to make html elements _move_ or _change_. One of the main ways to do this is to have the js code change the css rules on a tag, so that its styling or location changes.
 
-In the i.c. stars project we're using an add-on to js called JQuery that makes things a little easier to use.
+In the i.c. stars project we're using an add-on to JS called JQuery that makes things a little easier to use.
 
-Here's how you could use js to change an html tag:
+Here's how you could use JS to change an html tag in our project:
 
 First, you'd use JQuery to select the tag you want to change. You can do this with the same css selectors we used above. So if we used this tag again:
 
