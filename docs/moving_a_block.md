@@ -190,7 +190,7 @@ Unfortunately, this method will trigger when the user presses any key at all, no
 
 #### Using keycodes
 
-The ```event``` variable that gets passed to the keydown function is our key to finding out which exact key the user pressed. Unfortunately it's not as simple as getting an "a" back when the user pressed the "a" key. Instead, every key on the keyboard has a number associated with it, called the "keyCode". This is the number we'll have to use to see if the user pressed the key we're interested in. You can see it by using ```event.keyCode```.
+The ```event``` variable that gets passed to the keydown function is our key to finding out which exact key the user pressed. Unfortunately it's not as simple as getting an "a" back when the user pressed the "a" key. Instead, every key on the keyboard has a number associated with it, called the "keycode". This is the number we'll have to use to see if the user pressed the key we're interested in. You can see it by using ```event.keyCode```.
 
 This code will print out a key's keyCode to the browser's console whenever that key is pressed:
 
