@@ -1,15 +1,17 @@
 # Interactive javascript
 
 ### Intro
-To make your game you are first going to have to work out how to make things move on your page using javascript. This workshop will help walk through one way to do that.
+One of the first things that might be helpful towards putting your games together is to work out how to make things move on your page using javascript. This workshop will help walk through one way to do that.
 
-The end goal will be to have some kind of avatar on the screen that you can move around using the arrow keys.
+The end goal of the workshop will be to have some kind of avatar on the screen that you can move around using the arrow keys.
 
 This is intended to be an active tutorial, so please follow along with your own code as we move along! We'll work in small chunks, each with a short explanation of what the chunk is about and a task for you to try on your own. Tasks will be marked like this:
 
 > ```yaml
 -> Do the haka!
 ```
+
+Let's go!
 
 ### Table of contents
 
