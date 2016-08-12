@@ -80,7 +80,7 @@ You should now have something that looks a bit like this (color and shape doesn'
 Now to make it move!
 
 #### Using $(document).ready()
-Before we write any significant JS code we'll need to make sure that it will only run after the rest of the html has loaded, or else we can get weird errors with our code trying to find html tags that don't exist yet. We can do that with something like the following:
+Before we write any significant JS code we'll need to make sure that it will only run after the rest of the html has loaded, or else we might end up getting weird errors from our code trying to find html tags that don't exist yet. We can do that with something like the following:
 
 ```javascript
 $(document).ready(function(){
