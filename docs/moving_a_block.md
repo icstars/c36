@@ -5,7 +5,7 @@ One of the first things that might help with putting your game together is to wo
 
 The end goal of the workshop will be to have some kind of avatar on the screen that you can move around using the arrow keys.
 
-This is intended to be an active tutorial, so please follow along with your own code as we move along! We'll work in small chunks, each with a short explanation of what the chunk is about and a task for you to try on your own. Tasks will be marked like this:
+This is an active tutorial, so please follow along with your own code as we move along! We'll work in small chunks, each with a short explanation of what the chunk is about and a task for you to try on your own. Tasks will be marked like this:
 
 > ```yaml
 -> Do the haka!
