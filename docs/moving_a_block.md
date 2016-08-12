@@ -65,7 +65,7 @@ One way would be to add a new generic tag, like a ```<div>```, to the ```<body>`
    it a useful id attribute
 ```
 
-So now there is something in the html page that the JS code can grab, but we can't actually see anything! We'll have to add some css styles to the ```div``` we created to make it show up on the page. Let's give it a height, width, background-color, and absolute positioning using our css file
+So now there is something in the html page that the JS code can grab, but we can't actually see anything! We'll have to add some css styles to the ```div``` we created to make it show up on the page. Let's give it a [height](http://www.w3schools.com/cssref/pr_dim_height.asp), [width](http://www.w3schools.com/cssref/pr_dim_width.asp), [background-color](http://www.w3schools.com/cssref/pr_background-color.asp), and [absolute positioning](http://www.w3schools.com/cssref/pr_class_position.asp) using our css file
 
 > ```yaml
 -> Write a css rule in game.css to give your <div> color, height, width,
@@ -272,4 +272,5 @@ Once you've been able to get this working, then congrats! You have all the parts
 And if you've somehow made it this far and want a new challenge, here are some other things you can try:
 
 * Use an image for the avatar instead of just a shape with a colored background
-* see if you can find a way to not let the avatar go past the browser boundaries!
+* See if you can find a way to not let the avatar go past the browser boundaries!
+* Try using JS to always start your avatar in the middle of the browser window, no matter what size you make it
