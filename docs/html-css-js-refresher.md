@@ -1,6 +1,6 @@
 A refresher on HTML, CSS and Javascript. Feel free to skip around to whichever section you're interested in.
 
-###  HTML
+##  HTML
 HTML is what holds the _content_ of your site -- things like text or links or buttons. It's what your browser reads to show you any of the pages you go to on the web -- you can even see this page's html if you right click on it in a browser and select "view source".
 
 It's made of __tags__, which look like this:
@@ -49,7 +49,7 @@ Inside that tag are two others: the ```<head>``` and ```<body>``` tags. In the `
 
 And that's it!
 
-### CSS
+## CSS
 CSS controls the _design_ of the HTML content. It's what you use if you want to make a button green, your text bigger, or generally make things look nicer than the browser defaults.
 
 You can add CSS rules to an HTML document by using a special ```<link>``` tag, which you put inside the ```<head>```.
