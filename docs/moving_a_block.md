@@ -13,11 +13,11 @@ This is intended to be an active tutorial, so please follow along with your own 
 
 ### Table of contents
 
-1. [html/css/js refresher](https://github.com/icstars/c36/edit/master/docs/moving_a_block.md#htmlcssjs-refresher)
-2. [Setup](https://github.com/icstars/c36/edit/master/docs/moving_a_block.md#setup)
-2. [making an avatar](https://github.com/icstars/c36/edit/master/docs/moving_a_block.md#make-an-avatar)
-3. [movement!](https://github.com/icstars/c36/edit/master/docs/moving_a_block.md#movement)
-4. [adding in arrow keys](https://github.com/icstars/c36/edit/master/docs/moving_a_block.md#adding-in-the-arrow-keys)
+1. [html/css/js refresher](#htmlcssjs-refresher)
+2. [Setup](#setup)
+2. [making an avatar](#make-an-avatar)
+3. [movement!](#movement)
+4. [adding in arrow keys](#adding-in-the-arrow-keys)
 
 
 ## html/css/js refresher
