@@ -170,7 +170,7 @@ If things aren't working for you, don't hesitate to ask for help!
 
 ## Adding in the arrow keys
 
-This is all well and good, but our poor intrepid block is stuck forever blazing a new path past our browser's boundaries right-hand boundaries. Let's see if we can get it to only move to the right when we're pressing the right arrow key.
+This is all well and good, but our poor intrepid block is stuck forever blazing a new path past our browser's right-hand boundaries. Let's see if we can get it to only move to the right when we're pressing the right arrow key.
 
 Somehow we need to get javascript to listen to when we press the right key. But how do we do that?
 
