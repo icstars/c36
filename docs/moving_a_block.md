@@ -13,16 +13,17 @@ This is intended to be an active tutorial, so please follow along with your own 
 
 ### Table of contents
 
-1. [html/css/js refresher]()
-2. [making an avatar]()
-3. [movement!]()
-4. [adding in arrow keys]()
+1. [html/css/js refresher](https://github.com/icstars/c36/edit/master/docs/moving_a_block.md#htmlcssjs-refresher)
+2. [Setup](https://github.com/icstars/c36/edit/master/docs/moving_a_block.md#setup)
+2. [making an avatar](https://github.com/icstars/c36/edit/master/docs/moving_a_block.md#make-an-avatar)
+3. [movement!](https://github.com/icstars/c36/edit/master/docs/moving_a_block.md#movement)
+4. [adding in arrow keys](https://github.com/icstars/c36/edit/master/docs/moving_a_block.md#adding-in-the-arrow-keys)
 
 
 ## html/css/js refresher
 If you feel comfortable with the difference between what html, css, and javascript each do, and feel confident in using them, then feel free to skip down to the next section! Otherwise, check out this refresher:
 
-### [link!](link here/html-css-js-refresher.md)
+### [link!](https://github.com/icstars/c36/blob/master/docs/html-css-js-refresher.md)
 
 ## Setup
 Since the new page will use html, css, and js, let's make files for all of those.
