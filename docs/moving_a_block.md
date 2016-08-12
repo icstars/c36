@@ -1,4 +1,4 @@
-# Interactive javascript
+# Workshop: Interactive javascript
 
 ### Intro
 One of the first things that might help with putting your game together is to work out how to make things move on a page using javascript. This workshop will help walk through one way to do that.
